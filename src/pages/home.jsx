@@ -24,13 +24,13 @@ const home = () => {
             <div id="carouselExampleInterval" className="carousel slide" data-bs-ride="carousel">
               <div className="carousel-inner">
                   <div className='back-details'>
-                  <p className='mb-3 text'>Trade in offer</p>
+                  {/* <p className='mb-3 text'>Trade in offer</p> */}
                   <h1>Super Value Deals</h1>
                   <h2>On all products</h2>
 
                   <p className='mb-3'>Save more today with Apneck</p>
 
-                  <Link to='/shop' className='btn btn-primary' id='button-link'>Shop Now</Link>
+                  {/* <Link to='/shop' className='btn btn-primary' id='button-link'>Shop Now</Link> */}
                   </div>
               </div>
             </div>

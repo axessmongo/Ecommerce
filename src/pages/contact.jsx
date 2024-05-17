@@ -25,11 +25,10 @@ const contact = () => {
         <div className="col-lg-6 col-md-12">
             <div className="card p-5">
                 <h2 className='footer-title mb-3'><b>Contact Us</b></h2>
-                  <p className='mb-2'><b>Address:</b>  xxxx, xxxxx, xxxxxx</p>
+                  <p className='mb-2'><b>Address:</b>  chennai</p>
                   <p className='mb-2'><b>Phone:</b>  <a className='footer-tel' href="tel:+1234567890">Call us at 0123456789</a></p>
-                  <p className='mb-4'><b>Hours:</b>  From xxxxxx To xxxxx</p>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus quos iusto rerum architecto a eaque consequuntur impedit! Harum earum iste, suscipit soluta, culpa necessitatibus quia sit nulla doloremque officia cum.</p>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit hic veniam unde numquam in ullam laudantium odit explicabo itaque! Voluptate similique, accusantium consequatur provident soluta quaerat maxime adipisci vero sed.</p>
+                  <p className='mb-4'><b>Hours:</b>  From 8AM TO 10PM</p>
+                  
             </div>
           </div>
       </div>
