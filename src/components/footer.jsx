@@ -16,9 +16,9 @@ const footer = () => {
       <div className="row justify-content-center justify-content-md-start">
         <div className="col-md-4 col-lg-4 mb-4 mb-md-0 ">
           <h2 className='footer-title mb-3'><b>Contact</b></h2>
-          <div className='mb-3'><p><b>Address:</b>  Thika town, Naltex building, 2nd floor</p> </div>
-          <div className='mb-3'><p><b>Phone:</b>  <a className='footer-tel' href="tel:+1234567890">Call us at +1 (234) 567-890</a></p> </div>
-          <div className='mb-4'><p><b>Hours:</b>  From 8 a.m To 6 p.m</p> </div>
+          <div className='mb-3'><p><b>Address:</b> xxxx, xxxxx, xxxxxx </p> </div>
+          <div className='mb-3'><p><b>Phone:</b>  <a className='footer-tel' href="tel:+1234567890">Call us at 0123456789</a></p> </div>
+          <div className='mb-4'><p><b>Hours:</b>  From xxxxx To xxxxx</p> </div>
           <div className='mb-3'><p><b>Follow the developer</b></p> </div>
           <div className="socials d-flex gap-3">
           <Link to='https://discord.com/channels/1027937184768081950/1027937184768081952' id='footer-link' target='_blank' className='gap-3'>

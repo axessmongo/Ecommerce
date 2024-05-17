@@ -72,7 +72,7 @@ const cart = (props) => {
             <div className="align-items-center">
               <div>
                 <p className="total-price align-items-center">
-                  <b>${totalAmount}</b>
+                  <b>₹{totalAmount}</b>
                 </p>
               </div>
             </div>

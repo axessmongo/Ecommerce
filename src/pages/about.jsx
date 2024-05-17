@@ -56,8 +56,7 @@ const about = () => {
         </div>
         <div className="col-md-6 d-flex flex-column align-items-center justify-content-center">
           <h1><b>Who are we?</b></h1>
-          <p className="card-text mb-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. <br /> Quibusdam tempore unde aperiam, consectetur harum a eum error, <br /> libero nemo quisquam ex assumenda corrupti rerum aut quod et sint facere reprehenderit?</p>
-          <p className="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. <br /> Quibusdam tempore unde aperiam, consectetur harum a eum error, <br /> libero nemo quisquam ex assumenda corrupti rerum aut quod et sint facere reprehenderit?</p>
+          <p className="card-text mb-3">Welcome to VividWear, where fashion meets creativity! We’re passionate about bringing you medium-priced, funky designs that make a bold statement. Our t-shirts and clothing are crafted for those who love to stand out and express their unique style. At VividWear, we believe fashion should be fun, accessible, and always vibrant.</p>
         </div>
       </div>
     </section>
@@ -90,9 +89,9 @@ const about = () => {
                 </div>
                 <div className="col-md-8">
                   <div className="card-body">
-                    <h5 className="card-title">Marvel Clein</h5>
-                    <p className="card-text mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit <br />. Doloribus maxime consequatur, ipsam architecto incidunt volup <br />tate! Iste ipsa numquam quos nam quibusdam perferendis excepturi rem, a quo laudantium libero dolore nisi.</p>
-                    <p className="card-text"><small className="text-body-secondary">Last updated 3 mins ago</small></p>
+                    <h5 className="card-title"> Riya S</h5>
+                    <p className="card-text mb-3">"I love the vibrant designs at VividWear! Every t-shirt is a statement piece."</p>
+                    
                   </div>
                 </div>
 
@@ -107,9 +106,8 @@ const about = () => {
                 </div>
                 <div className="col-md-8">
                   <div className="card-body">
-                    <h5 className="card-title">Melisa Ivy</h5>
-                    <p className="card-text mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit <br />. Doloribus maxime consequatur, ipsam architecto incidunt volup <br />tate! Iste ipsa numquam quos nam quibusdam perferendis excepturi rem, a quo laudantium libero dolore nisi.</p>
-                    <p className="card-text"><small className="text-body-secondary">Last Updated now</small></p>
+                    <h5 className="card-title">Aarav </h5>
+                    <p className="card-text mb-3">"VividWear's funky styles are perfect for my everyday wardrobe. Highly recommend!"</p>
                   </div>
                 </div>
               </div>
@@ -124,9 +122,9 @@ const about = () => {
                 </div>
                 <div className="col-md-8">
                   <div className="card-body">
-                    <h5 className="card-title">Tristian Ann</h5>
-                    <p className="card-text mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit <br />. Doloribus maxime consequatur, ipsam architecto incidunt volup <br />tate! Iste ipsa numquam quos nam quibusdam perferendis excepturi rem, a quo laudantium libero dolore nisi.</p>
-                    <p className="card-text"><small className="text-body-secondary">Last Updated now</small></p>
+                    <h5 className="card-title"> Priya M</h5>
+                    <p className="card-text mb-3">"The quality and creativity in VividWear's clothing are unmatched. I'm a loyal fan!" </p>
+                    
                   </div>
                 </div>
               </div>
@@ -141,9 +139,9 @@ const about = () => {
                 </div>
                 <div className="col-md-8">
                   <div className="card-body">
-                    <h5 className="card-title">Phillip Omosh</h5>
-                    <p className="card-text mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit <br />. Doloribus maxime consequatur, ipsam architecto incidunt volup <br />tate! Iste ipsa numquam quos nam quibusdam perferendis excepturi rem, a quo laudantium libero dolore nisi.</p>
-                    <p className="card-text"><small className="text-body-secondary">Last Updated now</small></p>
+                    <h5 className="card-title">Arjun K</h5>
+                    <p className="card-text mb-3">"From the first wear, I was hooked. VividWear nails the balance between style and comfort."</p>
+                    
                   </div>
                 </div>
               </div>
@@ -157,9 +155,9 @@ const about = () => {
                 </div>
                 <div className="col-md-8">
                   <div className="card-body">
-                    <h5 className="card-title">Melisa Ivy</h5>
-                    <p className="card-text mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit <br />. Doloribus maxime consequatur, ipsam architecto incidunt volup <br />tate! Iste ipsa numquam quos nam quibusdam perferendis excepturi rem, a quo laudantium libero dolore nisi.</p>
-                    <p className="card-text"><small className="text-body-secondary">Last Updated now</small></p>
+                    <h5 className="card-title"> Neha R</h5>
+                    <p className="card-text mb-3">"I get compliments every time I wear VividWear. Their designs are truly unique!" </p>
+                    
                   </div>
                 </div>
               </div>
@@ -174,9 +172,9 @@ const about = () => {
                 </div>
                 <div className="col-md-8">
                   <div className="card-body">
-                    <h5 className="card-title">Marvel Clein</h5>
-                    <p className="card-text mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit <br />. Doloribus maxime consequatur, ipsam architecto incidunt volup <br />tate! Iste ipsa numquam quos nam quibusdam perferendis excepturi rem, a quo laudantium libero dolore nisi.</p>
-                    <p className="card-text"><small className="text-body-secondary">Last updated 3 mins ago</small></p>
+                    <h5 className="card-title">Kunal T</h5>
+                    <p className="card-text mb-3"> "VividWear has become my go-to for trendy, standout clothing. Love it!"</p>
+                    
                   </div>
                 </div>
 
