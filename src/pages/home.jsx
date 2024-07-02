@@ -6,10 +6,10 @@ import Featuredproducts from '../components/featuredproducts';
 import Newarrivals from '../components/newarrivals'
 import banner from '../assets/images/banner/b17.jpg'
 import banner1 from '../assets/images/banner/b10.jpg'
-import blog1 from '../assets/images/blog/blog-1.jpg'
-import blog2 from '../assets/images/blog/blog-2.jpg'
-import blog3 from '../assets/images/blog/blog-3.jpg'
-import blog4 from '../assets/images/blog/blog-4.jpg'
+import blog1 from '../assets/images/blog/blog-1.png'
+import blog2 from '../assets/images/blog/blog-2.png'
+import blog3 from '../assets/images/blog/blog-3.png'
+import blog4 from '../assets/images/blog/blog-4.png'
 import Newsletter from '../components/newsletter';
 import Hero from '../components/hero';
 
@@ -53,7 +53,7 @@ const home = () => {
       </div>
     </section>
 
-    <section className="repair-services p-5">
+    {/* <section className="repair-services p-5">
       <div className="container-xxl">
         <div className="row ">
           <div className="repair-details text-center align-items-center">
@@ -63,7 +63,7 @@ const home = () => {
           </div>
         </div>
       </div>
-    </section>
+    </section> */}
 
     <section className="new-arrivals p-4">
       <div className="container-xxl">

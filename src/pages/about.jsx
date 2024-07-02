@@ -1,10 +1,10 @@
 /* eslint-disable no-unused-vars */
 import React, { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom';
-import blog1 from '../assets/images/blog/blog-1.jpg'
-import blog2 from '../assets/images/blog/blog-2.jpg'
-import blog3 from '../assets/images/blog/blog-3.jpg'
-import blog4 from '../assets/images/blog/blog-4.jpg'
+import blog1 from '../assets/images/blog/blog-1.png'
+import blog2 from '../assets/images/blog/blog-2.png'
+import blog3 from '../assets/images/blog/blog-3.png'
+import blog4 from '../assets/images/blog/blog-4.png'
 import a6 from '../assets/images/about/a6.jpg'
 import video from '../assets/images/about/1.mp4'
 import Marquee from "react-fast-marquee";
