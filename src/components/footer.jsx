@@ -17,7 +17,7 @@ const footer = () => {
         <div className="col-md-4 col-lg-4 mb-4 mb-md-0 ">
           <h2 className='footer-title mb-3'><b>Contact</b></h2>
           <div className='mb-3'><p><b>Address:</b>Chennai </p> </div>
-          <div className='mb-3'><p><b>Phone:</b>  <a className='footer-tel' href="tel:+1234567890">Call us at 0123456789</a></p> </div>
+          {/* <div className='mb-3'><p><b>Phone:</b>  <a className='footer-tel' href="tel:+1234567890">Call us at 0123456789</a></p> </div> */}
           <div className='mb-4'><p><b>Hours:</b>  From 8AM to 10PM</p> </div>
           <div className='mb-3'><p><b>Follow the developer</b></p> </div>
           <div className="socials d-flex gap-3">
